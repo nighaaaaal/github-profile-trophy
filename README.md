@@ -665,4 +665,4 @@ contributions help keep development going and make this work possible.
 - [@Dobefu](https://github.com/Dobefu) — $10 (Dec 22, 2024)
 - [@michele-lorenzoni](https://github.com/michele-lorenzoni) — $10 (Nov
   26, 2024)
-- [@skillerious](https://github.com/skillerious) — $10 (Aug 17,2024)
+- [@skillerious](https://github.com/skillerious) — $10 (Aug 17, 2024)
